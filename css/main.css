@@ -310,7 +310,13 @@ img.hodiday-offer-percentage-img {
 }
 .porfolio-images{
 }
+.portfolio-images-row-1 img:hover, .portfolio-images-row-2 img:hover  {
+    opacity: 1;
+}
 
+.portfolio-images-row-1 img , .portfolio-images-row-2 img {
+    opacity: .8;
+}
 .portfolio-images-row-2 img {
     max-width: 424px;
 }
